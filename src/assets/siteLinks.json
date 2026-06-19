@@ -4,11 +4,7 @@
     "name": "发了什么玩意",
     "link": "https://user.qzone.qq.com/2025361265/"
   },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
+
   {
     "icon": "CompactDisc",
     "name": "音乐",
@@ -28,5 +24,10 @@
     "icon": "LogoTwitter",
     "name": "神秘小网站😍",
     "link": "https://x.com/xingchen_owo"
+  },
+  {
+    "icon": "Paw",
+    "name": "狱卒诶😋",
+    "link": "https://www.jiaotk.com/"
   }
 ]
