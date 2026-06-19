@@ -64,6 +64,11 @@ a:hover {
   font-display: swap;
   src: url('/font/MiSans-Regular.otf') format('opentype');
 }
+@font-face {
+  font-family: "huawenxingkai";
+  font-display: swap;
+  src: url("/font/STXINGKA.TTF") format("truetype");
+}
 
 // 基础样式
 #app {

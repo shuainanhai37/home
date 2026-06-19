@@ -11,7 +11,7 @@ export const storeState: MainState = {
   /* 0 不切换，1 等待 15 秒，2 等待 30 秒，3 等待 45 秒。 */
   autoBGSwitchInterval : 2 as number, // 【开关】自动切换壁纸设置
   seasonalEffects: true, // 【开关】季节特效
-  msgNameShow: false, // 【开关】信息区域显示自定义名而非原本的 URL
+  msgNameShow: true, // 【开关】信息区域显示自定义名而非原本的 URL
   siteStartShow: true, // 【开关】建站日期显示
   musicClick: true, // 【开关】音乐链接是否跳转
   musicBoxOpenState: false, // 【状态】音乐盒子开启状态

@@ -4,7 +4,7 @@
     <!-- Logo -->
     <div class="logo">
       <img class="logo-img" :src="siteLogo" alt="logo" />
-      <div :class="{ name: true, 'text-truncate-ellipsis': true, long: siteUrl[0].length >= 6 }">
+      <div :class="{ name: true, 'text-truncate-ellipsis': true, long: siteUrl[0].length >= 10 }">
         <span class="bg">{{ siteUrl[0] }}</span>
         <span class="sm">.{{ siteUrl[1] }}</span>
       </div>
@@ -131,7 +131,8 @@ watch(
       font-family: "Pacifico-Regular";
 
       .bg {
-        font-size: 5rem;
+        font-size: 4rem;
+        font-family: huawenxingkai;
         color: rgba(245, 245, 245, 1);
       }
 
