@@ -1,8 +1,8 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "发了什么玩意",
+    "link": "https://user.qzone.qq.com/2025361265/"
   },
   {
     "icon": "Cloud",
@@ -16,22 +16,17 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "让我查查资料",
+    "link": "https://bing.com"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "DeviceTv",
+    "name": "小破站",
+    "link": "https://bing.com/688503832?"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "LogoTwitter",
+    "name": "神秘小网站😍",
+    "link": "https://x.com/xingchen_owo"
   }
 ]
